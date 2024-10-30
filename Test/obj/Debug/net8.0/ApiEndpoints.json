@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Test.Controllers.MeterController",
+    "Method": "MeterReadingUploads",
+    "RelativePath": "Meter/meter-reading-uploads",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFileCollection",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
