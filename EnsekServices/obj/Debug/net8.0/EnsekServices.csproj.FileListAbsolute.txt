@@ -1,0 +1,12 @@
+C:\git\Ensek\EnsekTechTest\EnsekServices\bin\Debug\net8.0\EnsekServices.deps.json
+C:\git\Ensek\EnsekTechTest\EnsekServices\bin\Debug\net8.0\EnsekServices.dll
+C:\git\Ensek\EnsekTechTest\EnsekServices\bin\Debug\net8.0\EnsekServices.pdb
+C:\git\Ensek\EnsekTechTest\EnsekServices\obj\Debug\net8.0\EnsekServices.csproj.AssemblyReference.cache
+C:\git\Ensek\EnsekTechTest\EnsekServices\obj\Debug\net8.0\EnsekServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Ensek\EnsekTechTest\EnsekServices\obj\Debug\net8.0\EnsekServices.AssemblyInfoInputs.cache
+C:\git\Ensek\EnsekTechTest\EnsekServices\obj\Debug\net8.0\EnsekServices.AssemblyInfo.cs
+C:\git\Ensek\EnsekTechTest\EnsekServices\obj\Debug\net8.0\EnsekServices.csproj.CoreCompileInputs.cache
+C:\git\Ensek\EnsekTechTest\EnsekServices\obj\Debug\net8.0\EnsekServices.dll
+C:\git\Ensek\EnsekTechTest\EnsekServices\obj\Debug\net8.0\refint\EnsekServices.dll
+C:\git\Ensek\EnsekTechTest\EnsekServices\obj\Debug\net8.0\EnsekServices.pdb
+C:\git\Ensek\EnsekTechTest\EnsekServices\obj\Debug\net8.0\ref\EnsekServices.dll

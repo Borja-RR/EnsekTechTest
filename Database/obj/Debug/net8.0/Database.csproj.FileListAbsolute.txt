@@ -1,0 +1,14 @@
+C:\git\Ensek\EnsekTechTest\Database\bin\Debug\net8.0\Database.deps.json
+C:\git\Ensek\EnsekTechTest\Database\bin\Debug\net8.0\Database.runtimeconfig.json
+C:\git\Ensek\EnsekTechTest\Database\bin\Debug\net8.0\Database.dll
+C:\git\Ensek\EnsekTechTest\Database\bin\Debug\net8.0\Database.pdb
+C:\git\Ensek\EnsekTechTest\Database\obj\Debug\net8.0\Database.csproj.AssemblyReference.cache
+C:\git\Ensek\EnsekTechTest\Database\obj\Debug\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Ensek\EnsekTechTest\Database\obj\Debug\net8.0\Database.AssemblyInfoInputs.cache
+C:\git\Ensek\EnsekTechTest\Database\obj\Debug\net8.0\Database.AssemblyInfo.cs
+C:\git\Ensek\EnsekTechTest\Database\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
+C:\git\Ensek\EnsekTechTest\Database\obj\Debug\net8.0\Database.dll
+C:\git\Ensek\EnsekTechTest\Database\obj\Debug\net8.0\refint\Database.dll
+C:\git\Ensek\EnsekTechTest\Database\obj\Debug\net8.0\Database.pdb
+C:\git\Ensek\EnsekTechTest\Database\obj\Debug\net8.0\Database.genruntimeconfig.cache
+C:\git\Ensek\EnsekTechTest\Database\obj\Debug\net8.0\ref\Database.dll
